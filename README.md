@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-191a04) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [flux-kontext-prompts-ru](https://github.com/z9umz0nkurue8/flux-kontext-prompts-ru)
+- **Same model, other languages** — 9 more language builds: 中文 `flux-kontext-api-cn` · Deutsch [flux-kontext-api-de](https://github.com/sjprcowvapx3/flux-kontext-api-de) · Español [flux-kontext-api-es](https://github.com/trfdg5acl147p/flux-kontext-api-es) · Français [flux-kontext-api-fr](https://github.com/bmoefvec/flux-kontext-api-fr) · Relay/gateway `flux-kontext-api-gateway` · Bahasa [flux-kontext-api-id](https://github.com/lnbqjduxe/flux-kontext-api-id) · 日本語 [flux-kontext-api-ja](https://github.com/uy47nxvbx/flux-kontext-api-ja) · 한국어 [flux-kontext-api-ko](https://github.com/gjkqh-v/flux-kontext-api-ko) · Português [flux-kontext-api-pt](https://github.com/atpfffifl97hm/flux-kontext-api-pt)
+- **More models in this language** — [midjourney-api-ru](https://github.com/sfpxvicw/midjourney-api-ru) · [gemini-2-5-flash-image-preview-api-ru](https://github.com/zwtdva8/gemini-2-5-flash-image-preview-api-ru) · [nano-banana-api-ru](https://github.com/ggpbi40ss/nano-banana-api-ru) · [gemini-3-1-flash-image-preview-api-ru](https://github.com/lu60av/gemini-3-1-flash-image-preview-api-ru) · [nano-banana-2-api-ru](https://github.com/jnp3hlry/nano-banana-2-api-ru) · [gemini-3-pro-image-preview-api-ru](https://github.com/dbxz24/gemini-3-pro-image-preview-api-ru)
+- **Topic hubs** — every build of this model, all languages: [flux-kontext](https://github.com/topics/flux-kontext) · [flux-kontext-api](https://github.com/topics/flux-kontext-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
